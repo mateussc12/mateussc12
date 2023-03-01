@@ -1,7 +1,7 @@
 # Hi there i'm Mateus!    
 Student of Electrical engineering student at the Federal University of Espírito Santo (UFES).  
 
-Interested in telecommunications, photonics, electronics, power distribution and transmission. And of course software development.
+Interested in telecommunications, photonics, electronics, CAD eletrical projects, power distribution and transmission. And of course software development.
 
 I speak Brazilian Portuguese, English, and can kinda handle myself with Spanish.
 
